@@ -180,4 +180,8 @@
          id="org.eclipse.fordiac.ide.ethercat"
          version="0.0.0"/>
 
+   <plugin
+         id="org.eclipse.fordiac.ide.efg"
+         version="0.0.0"/>
+
 </feature>
